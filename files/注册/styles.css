@@ -221,3 +221,13 @@
   width:280px;
   word-wrap:break-word;
 }
+#u9 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:438px;
+  width:375px;
+  height:63px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
