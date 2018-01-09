@@ -189,3 +189,28 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u947_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:342px;
+}
+#u947 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:299px;
+  width:375px;
+  height:342px;
+}
+#u947_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
