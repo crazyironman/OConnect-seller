@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u1753 {
+#u1754 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,46 +20,21 @@
   width:0px;
   height:0px;
 }
-#u1754_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:430px;
-  height:101px;
-}
-#u1754 {
-  border-width:0px;
-  position:absolute;
-  left:13px;
-  top:0px;
-  width:430px;
-  height:101px;
-}
-#u1754_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
 #u1755_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:30px;
-  height:663px;
+  width:430px;
+  height:101px;
 }
 #u1755 {
   border-width:0px;
   position:absolute;
   left:13px;
-  top:101px;
-  width:30px;
-  height:663px;
+  top:0px;
+  width:430px;
+  height:101px;
 }
 #u1755_text {
   border-width:0px;
@@ -75,15 +50,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:26px;
+  width:30px;
   height:663px;
 }
 #u1756 {
   border-width:0px;
   position:absolute;
-  left:417px;
+  left:13px;
   top:101px;
-  width:26px;
+  width:30px;
   height:663px;
 }
 #u1756_text {
@@ -100,16 +75,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:430px;
-  height:102px;
+  width:26px;
+  height:663px;
 }
 #u1757 {
   border-width:0px;
   position:absolute;
-  left:13px;
-  top:764px;
-  width:430px;
-  height:102px;
+  left:417px;
+  top:101px;
+  width:26px;
+  height:663px;
 }
 #u1757_text {
   border-width:0px;
@@ -120,7 +95,32 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u1758_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:430px;
+  height:102px;
+}
 #u1758 {
+  border-width:0px;
+  position:absolute;
+  left:13px;
+  top:764px;
+  width:430px;
+  height:102px;
+}
+#u1758_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1759 {
   border-width:0px;
   position:absolute;
   left:41px;
@@ -129,7 +129,7 @@
   height:667px;
   overflow:hidden;
 }
-#u1758_state0 {
+#u1759_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -142,7 +142,7 @@
   overflow-y:hidden;
   background-image:none;
 }
-#u1758_state0_content {
+#u1759_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -150,7 +150,7 @@
   width:1px;
   height:1px;
 }
-#u1759 {
+#u1760 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -158,7 +158,7 @@
   width:391px;
   height:685px;
 }
-#u1759_input {
+#u1760_input {
   border-width:0px;
   position:absolute;
   left:0px;
